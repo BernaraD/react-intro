@@ -1,0 +1,10 @@
+.todo-list > ul {
+    padding: 0.25rem 0.75rem;
+    text-decoration: none;
+    list-style-type: none;
+    margin: 0;
+}
+
+.todo-list > ul > li {
+    padding: 0.75rem 0;
+}
